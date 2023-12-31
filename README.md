@@ -46,10 +46,10 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+### Output:
 
 ### Name:T Mounish
 ### Register Number:23002806
 
-## RESULT:
+### RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
